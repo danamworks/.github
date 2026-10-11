@@ -37,9 +37,9 @@ All public and internal Danamworks codebases adhere to strict engineering conven
 
 ### Connect With Us
 
-- **Website:** [danamworks.com](https://danamworks.com)
+- **Website:** [danamworks.com](https://www.danamworks.com)
 - **General Inquiries:** [contact@danamworks.com](mailto:contact@danamworks.com)
-- **Technical Consulting:** [raja@danamworks.com](mailto:raja@danamworks.com)
+- **Technical Consulting:** [rajadurai.a@danamworks.com](mailto:rajadurai.a@danamworks.com)
 - **Location:** Chennai, India
 
 ---
